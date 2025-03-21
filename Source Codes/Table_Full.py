@@ -1,6 +1,12 @@
 # Create a Large ttkbootstrap table and display data with pagination
 # (c) www.xanthium.in
 
+
+# Requires ttkbootstrap for running the code
+# Install  ttkbootstrap using pip
+# pip install ttkbootstrap
+
+
 import ttkbootstrap as ttk
 from ttkbootstrap.tableview import Tableview
 from ttkbootstrap.constants import *
