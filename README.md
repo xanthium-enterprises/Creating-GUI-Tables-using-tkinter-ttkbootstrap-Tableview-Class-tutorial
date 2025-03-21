@@ -16,3 +16,9 @@ In this tutorial, we'll walk you through the process of creating a **table widge
 - You need to **install ttkbootstrap library** before running the code
 - [Installing ttkbootstrap library on Windows using PIP](https://www.youtube.com/watch?v=amsQOwXZvpo)
 
+# Repo Contents
+
+- Creating Tables using Tableview Class
+- Adding a Row into the tkinter/ttkbootstrap Table 
+- Deleting a Row in the tkinter/ttkbootstrap table
+
