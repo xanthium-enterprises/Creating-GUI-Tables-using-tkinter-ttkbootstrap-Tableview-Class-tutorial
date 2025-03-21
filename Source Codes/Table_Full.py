@@ -54,13 +54,14 @@ data_table  = Tableview(
                          master     = root,
                          coldata    = column_headers,
                          rowdata    = row_data,
-                         pagesize   = 5,
+                         pagesize   = 10,               # display 10 row entries per page
+                         height     = 5,                # displays onl5 of the 10 rows,rest you have to scroll down
                          autofit    = True,
-                         paginated  = True,
-                         searchable = True,
+                         paginated  = True,             # organize into pages,each page will have 10 rows as specified in pagesize   = 10,  
+                         searchable = True,             # Searchbox = True
                          bootstyle  = SUCCESS,
-                         #stripecolor = (colors.primary, colors.secondary),
-                         stripecolor = (colors.light, None),
+                         
+                         stripecolor = (colors.light, None), #alternate rows coloured in light shade for easy reading
                         )
 
 data_table.pack(fill = BOTH, expand = YES, padx = 15, pady = 15)
