@@ -2,6 +2,8 @@
 
 In this tutorial, we'll walk you through the process of creating a **table widget** for displaying tabular data using Tkinter and the ttkbootstrap GUI library. We will also cover how to build a fully functional table and demonstrate how to programmatically add and delete rows. By the end, you'll have a practical solution for managing tabular data in your Python applications with a modern,good looking interactive interface.
 
+![How to create a Python tkinter ttkbootstrap table for displaying data](/Images/tkinter-ttkbootstrap-table-creation-tutorial.jpg)
+
 # Online Tutorial
 
 - [Creating GUI Tables using tkinter ttkbootstrap Tableview Class tutorial](https://www.xanthium.in/create-gui-table-widget-tkinter-using-ttkbootstrap-tableview-class-tutorial)
